@@ -1,1 +1,6 @@
-debug
+x64/
+.vs/
+Debug/
+.*
+
+!.gitignore
